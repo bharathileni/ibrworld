@@ -1,0 +1,43 @@
+<html>
+<head>
+<link href="screen.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+   $("#orderedlist").find("li").each(function(i) {
+     $(this).append( " BAM! " + i );
+   });
+ });
+</script>
+</head>
+<body>
+<h1>LMS</h1>
+<a href="#">More...</a>	
+<ui id="orderedlist" style="background-color: red;">
+<li>General system features</li>
+<li>General course features</li>
+<li>Subscriptions</li>
+<li>File Library</li>
+<li>Announcements</li>
+<li>Documents</li>
+<li>Learning Paths</li>
+<li>Quizzes</li>
+<li>Conference</li>	
+<li>Tracking</li>
+<li>Gradebook</li>
+<li>Links</li>
+<li>DropBox</li>
+<li>Attendance</li>
+<li>Homework</li>
+<li>Help</li>
+<li>Forum</li>
+<li>Mailbox</li>
+<li>Chat</li>
+<li>Users & Groups Management</li>
+<li>Reporting</li>
+<li>General Administration</li>
+<li>Additional system options and modules</li>
+<li>Additional Joomla CMS platform capabilities</li>
+</ui>
+</body>
+</html>
