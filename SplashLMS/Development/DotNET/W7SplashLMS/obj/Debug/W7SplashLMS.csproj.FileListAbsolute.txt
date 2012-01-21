@@ -1,0 +1,14 @@
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\ApplicationIcon.png
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\Background.png
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\W7SplashLMS.dll
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\W7SplashLMS.pdb
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\AppManifest.xaml
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\W7SplashLMS.xap
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\WP7GapClassLib.dll
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\App.g.i.cs
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\MainPage.g.i.cs
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\W7SplashLMS.g.resources
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\W7SplashLMS.dll
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\W7SplashLMS.pdb
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\XapCacheFile.xml

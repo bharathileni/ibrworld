@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is auto-generated, do not edit! -jm -->
+<GapSourceDictionary>
+    <FilePath Value="www\index.html"/>
+    <FilePath Value="www\jquery.mobile-1.0a4.min.css"/>
+    <FilePath Value="www\jquery.mobile-1.0a4.min.js"/>
+    <FilePath Value="www\page2.html"/>
+    <FilePath Value="www\phonegap-1.3.0.js"/>
+    <FilePath Value="www\Common\jquery-1.6.4.min.js"/>
+    <FilePath Value="www\Common\jquery.mobile-1.0.min.css"/>
+    <FilePath Value="www\Common\jquery.mobile-1.0.min.js"/>
+    <FilePath Value="www\Common\master.css"/>
+    <FilePath Value="www\images\ajax-loader.png"/>
+    <FilePath Value="www\images\icon-search-black.png"/>
+    <FilePath Value="www\images\icons-18-black.png"/>
+    <FilePath Value="www\images\icons-18-white.png"/>
+    <FilePath Value="www\images\icons-36-black.png"/>
+    <FilePath Value="www\images\icons-36-white.png"/>
+</GapSourceDictionary>
