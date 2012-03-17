@@ -1,0 +1,5 @@
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\Splash-External\bin\Splash-External.dll
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\Splash-External\bin\Splash-External.pdb
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\Splash-External\obj\Debug\ResolveAssemblyReference.cache
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\Splash-External\obj\Debug\Splash-External.dll
+F:\Workspace\ibrworld\SplashLMS\Development\DotNET\Splash-External\obj\Debug\Splash-External.pdb

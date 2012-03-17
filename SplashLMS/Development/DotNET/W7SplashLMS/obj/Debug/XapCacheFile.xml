@@ -1,13 +1,16 @@
-﻿<xapCache source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\W7SplashLMS.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="1/21/2012 3:49:50 PM">
+﻿<xapCache source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\W7SplashLMS.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="1/22/2012 8:42:40 AM">
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="1/15/2012 1:48:50 PM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\Background.png" archivePath="Background.png" lastWriteTime="1/15/2012 1:47:14 PM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="1/15/2012 1:47:14 PM" />
-  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\W7SplashLMS.dll" archivePath="W7SplashLMS.dll" lastWriteTime="1/21/2012 3:44:50 PM" />
+  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\obj\Debug\W7SplashLMS.dll" archivePath="W7SplashLMS.dll" lastWriteTime="1/22/2012 8:42:40 AM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\GapLib\WP7GapClassLib.dll" archivePath="WP7GapClassLib.dll" lastWriteTime="1/15/2012 1:47:14 PM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\GapLib\WP7GapClassLib.dll" archivePath="GapLib\WP7GapClassLib.dll" lastWriteTime="1/15/2012 1:47:14 PM" />
-  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\GapSourceDictionary.xml" archivePath="GapSourceDictionary.xml" lastWriteTime="1/21/2012 3:49:50 PM" />
+  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\GapSourceDictionary.xml" archivePath="GapSourceDictionary.xml" lastWriteTime="1/22/2012 8:42:39 AM" />
+  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\css\ui-lightness\jquery-ui-1.8.17.custom.css" archivePath="www\css\ui-lightness\jquery-ui-1.8.17.custom.css" lastWriteTime="1/22/2012 8:42:31 AM" />
+  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\js\jquery-1.7.1.min.js" archivePath="www\js\jquery-1.7.1.min.js" lastWriteTime="1/22/2012 8:42:14 AM" />
+  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\js\jquery-ui-1.8.17.custom.min.js" archivePath="www\js\jquery-ui-1.8.17.custom.min.js" lastWriteTime="1/22/2012 8:42:14 AM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\page2.html" archivePath="www\page2.html" lastWriteTime="1/21/2012 3:44:49 PM" />
-  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\index.html" archivePath="www\index.html" lastWriteTime="1/21/2012 3:46:22 PM" />
+  <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\index.html" archivePath="www\index.html" lastWriteTime="1/22/2012 8:42:35 AM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\Common\jquery-1.6.4.min.js" archivePath="www\Common\jquery-1.6.4.min.js" lastWriteTime="1/15/2012 1:52:30 PM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\Common\jquery.mobile-1.0.min.css" archivePath="www\Common\jquery.mobile-1.0.min.css" lastWriteTime="1/15/2012 1:53:25 PM" />
   <file source="F:\Workspace\ibrworld\SplashLMS\Development\DotNET\W7SplashLMS\www\Common\jquery.mobile-1.0.min.js" archivePath="www\Common\jquery.mobile-1.0.min.js" lastWriteTime="1/15/2012 1:54:24 PM" />
