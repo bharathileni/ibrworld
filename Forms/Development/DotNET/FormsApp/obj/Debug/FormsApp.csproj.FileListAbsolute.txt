@@ -1,0 +1,5 @@
+F:\Workspace\ibrworld\Forms\Development\DotNET\FormsApp\bin\FormsApp.dll
+F:\Workspace\ibrworld\Forms\Development\DotNET\FormsApp\bin\FormsApp.pdb
+F:\Workspace\ibrworld\Forms\Development\DotNET\FormsApp\obj\Debug\ResolveAssemblyReference.cache
+F:\Workspace\ibrworld\Forms\Development\DotNET\FormsApp\obj\Debug\FormsApp.dll
+F:\Workspace\ibrworld\Forms\Development\DotNET\FormsApp\obj\Debug\FormsApp.pdb
